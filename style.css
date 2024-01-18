@@ -1,0 +1,51 @@
+#contact iframe
+{
+    width: 100%;
+}
+.marriage_mainDiv
+{
+    border: 1px solid lightgrey;
+}
+
+.marriage_mainDiv img
+{
+    width: 100%;
+}
+
+.marriage_mainDiv h5 , .marriage_mainDiv p
+{
+    margin: 20px;
+}
+
+.event_head
+{
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+
+.event_head i
+{
+float: right;
+}
+
+.event.text span
+{
+color: orange;
+}
+
+body {
+    background: pink;
+}
+
+.achievements
+{
+    margin-bottom: 20px;
+}
+
+.myNavbar
+{
+    color: lightseagreen;
+}
+
